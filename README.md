@@ -1,2 +1,6 @@
 # Shopify-sales-customer-insights
-Built an interactive Power BI dashboard for Shopify sales and customer insights, featuring regional overview, trend analysis, payment methods, and product performance. Filters on key metrics like net sales, quantity and customers enable deeper evaluation of business growth and customer behavior.
+This project showcases an interactive Power BI dashboard designed to analyze Shopify sales and customer insights. The dashboard transforms raw sales data into actionable insights to support data-driven decision-making for e-commerce performance.
+## Tools Used
+- Excel – Extarct data from here
+- Power BI – Data transformation, cleaning, visualization, and dashboard building
+## Project File Used
